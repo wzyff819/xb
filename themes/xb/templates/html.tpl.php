@@ -68,6 +68,16 @@
   <!--[if lt IE 9]>
     <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>  <![endif]-->
   <?php print $scripts; ?>
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?14a41415cf59ebf6736122ee59a1d6af";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 </head>
 <body<?php print $body_attributes; ?> id="body">
   <div id="skip-link">

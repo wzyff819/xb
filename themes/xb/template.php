@@ -17,14 +17,6 @@ function xb_preprocess_page(&$var)
     $var['theme_path'] = drupal_get_path('theme', 'xb');
     $var['theme_url'] = file_create_url(drupal_get_path('theme', 'xb'));
 
-    if(drupal_is_front_page())
-    {
-        drupal_set_title("潍坊软件开发，网站开发，微信和小程序开发公司");
-
-    }
-
-
-
 }
 
 

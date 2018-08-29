@@ -82,7 +82,7 @@
     <div class="container clearfix">
         <div class="contact-info float-left">
             <i class="fa fa-envelope-o"></i> <a href="mailto:no_ended@qq.com">no_ended@qq.com</a>
-            <i class="fa fa-phone"></i> 177-631-81919【微信同号】
+            <i class="fa fa-phone"></i> <a href="tel:17763181919">177-631-81919【微信同号】</a>
         </div>
 
     </div>
@@ -94,7 +94,7 @@
         <div class="container">
 
             <div id="logo" class="pull-left">
-                <h1><a href="#body" class="scrollto">小奔<span>科技</span></a></h1>
+                <h1><a href="/" class="scrollto">小奔<span>科技</span></a></h1>
             </div>
 
             <nav id="nav-menu-container">
@@ -109,6 +109,7 @@
 
     <div class="intro-content">
         <h2>您提供<span>想法</span><br>剩下的交给我们!</h2>
+        <p>小奔科技-<strong>潍坊专业的软件开发公司</strong>，承接网站建设、微信开发、APP开发等，按时交付，价格合理！</p>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>
             <a href="/services" class="btn-projects scrollto">解决方案</a>
@@ -137,14 +138,14 @@
             </div>
 
             <div class="col-lg-6 content">
-                <h2>小奔是潍坊专业程序设计公司，开发APP、微信、网站和各种系统</h2>
+                <h2>小奔科技是潍坊专业程序设计公司，开发APP、微信、网站和各种系统</h2>
                 <h3>强大的技术支撑，优秀的管理和服务，为您的事业保驾护航</h3>
 
                 <ul>
-                    <li><i class="ion-android-checkmark-circle"></i>跨境电商从零到几千万销售，从Google到亚马逊，完整的开发和运营流程让您的产品远销无障碍</li>
-                    <li><i class="ion-android-checkmark-circle"></i>企业内部的管理系统，从生产、代理、销售，甚至是员工的日常管理，成倍的减少人员成本。</li>
-                    <li><i class="ion-android-checkmark-circle"></i>微信公众号及小程序的创意开发，让您粉丝暴增，快速盈利</li>
-                    <li><i class="ion-android-checkmark-circle"></i>低成本的创业APP，快速测试市场并提供融资样板</li>
+                    <li><i class="ion-android-checkmark-circle"></i>跨境电商从零到几千万销售，从Google到亚马逊，完整的开发和运营流程让您的产品远销无障碍。</li>
+                    <li><i class="ion-android-checkmark-circle"></i>开发企业内部的管理软件，从生产、代理、销售，甚至是员工的日常管理，成倍的减少人员成本。</li>
+                    <li><i class="ion-android-checkmark-circle"></i>微信公众号及小程序的创意开发，让您粉丝暴增，快速盈利。</li>
+                    <li><i class="ion-android-checkmark-circle"></i>低成本的创业APP，快速测试市场并提供融资样板。</li>
                 </ul>
 
             </div>
@@ -161,7 +162,7 @@
     <div class="container">
         <div class="section-header">
             <h2>服务</h2>
-            <p>优秀的技术和实事求是的态度，让您的每一分钱花到位。绝不虚报坑人，引诱式消费（请勿对号入座）</p>
+            <p>优秀的技术和实事求是的态度，让您的每一分钱花到位。绝不虚报坑人，引诱式消费。</p>
         </div>
 
         <div class="row">
@@ -194,7 +195,7 @@
                 <div class="box wow fadeInRight" data-wow-delay="0.2s">
                     <div class="icon"><i class="fa fa-map"></i></div>
                     <h4 class="title"><a href="">维护</a></h4>
-                    <p class="description">如果您的上家技术公司不作为（仅仅是假如)或其他情况下您的产品产品需要维护或改版，请联系我们</p>
+                    <p class="description">您的产品需要维护或改版，请联系我们</p>
                 </div>
             </div>
 
@@ -235,8 +236,8 @@
     <section id="contact" class="wow fadeInUp">
         <div class="container">
             <div class="section-header">
-                <h2>联系我们</h2>
-                <p>Please feel free to contact us if you have any questions.（感觉英文比中文好表达）
+                <h2>联系</h2>
+                <p>免费咨询，欢迎洽谈合作
                 </p>
             </div>
 
@@ -278,8 +279,11 @@
 <footer id="footer">
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong>潍坊小奔信息科技有限公司</strong>. All Rights Reserved
+            &copy; Copyright <strong>潍坊小奔信息科技有限公司</strong> All Rights Reserved
+            <br/>
+            本网站加速服务由<a href="https://www.upyun.com/"><img   width="30px" heigth="30px" src="<?=$theme_path;?>/img/logo1.png"/></a>提供
         </div>
 
     </div>
 </footer><!-- #footer -->
+<?php render($page['content']['metatags']); ?>

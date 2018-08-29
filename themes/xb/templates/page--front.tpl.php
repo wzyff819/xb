@@ -109,7 +109,7 @@
 
     <div class="intro-content">
         <h2>您提供<span>想法</span><br>剩下的交给我们!</h2>
-        <p>小奔科技-<strong>潍坊专业的软件开发公司</strong>，承接网站建设、微信开发、APP开发等，按时交付，价格合理！</p>
+        <p>潍坊小奔科技-<strong>潍坊专业的软件开发公司</strong>，承接网站建设、微信开发、APP开发等，按时交付，价格合理！</p>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>
             <a href="/services" class="btn-projects scrollto">解决方案</a>
@@ -138,7 +138,7 @@
             </div>
 
             <div class="col-lg-6 content">
-                <h2>小奔科技是潍坊专业程序设计公司，开发APP、微信、网站和各种系统</h2>
+                <h2>潍坊小奔科技是潍坊专业软件设计公司，开发APP、微信、网站和各种系统</h2>
                 <h3>强大的技术支撑，优秀的管理和服务，为您的事业保驾护航</h3>
 
                 <ul>

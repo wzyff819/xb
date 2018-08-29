@@ -1,0 +1,43 @@
+name = 小奔信息科技
+description = Uses the jsDelivr CDN for all CSS and JavaScript. No source files or compiling is necessary and is recommended for simple sites or beginners.
+core = 7.x
+base theme = bootstrap
+php = 5.3.0
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary'
+regions[sidebar_second] = 'Secondary'
+regions[footer]         = 'Footer'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = lib/font-awesome/css/font-awesome.min.css
+stylesheets[all][] = lib/animate/animate.min.css
+stylesheets[all][] = lib/ionicons/css/ionicons.min.css
+stylesheets[all][] = lib/owlcarousel/assets/owl.carousel.min.css
+stylesheets[all][] = lib/magnific-popup/magnific-popup.css
+stylesheets[all][] = lib/ionicons/css/ionicons.min.css
+stylesheets[all][] =  css/style.css
+
+ scripts[] =lib/easing/easing.min.js
+ scripts[] =lib/superfish/hoverIntent.js
+ scripts[] =lib/superfish/superfish.min.js
+ scripts[] =lib/wow/wow.min.js
+ scripts[] =lib/owlcarousel/owl.carousel.min.js
+ scripts[] =lib/magnific-popup/magnific-popup.min.js
+ scripts[] =lib/sticky/sticky.js
+ scripts[] =js/main.js

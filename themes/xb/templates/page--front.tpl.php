@@ -73,7 +73,6 @@
  *
  * @ingroup templates
  */
-header("not found", true, 404);
 
 ?>
 

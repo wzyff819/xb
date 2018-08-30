@@ -73,7 +73,6 @@
  *
  * @ingroup templates
  */
-drupal_not_found();
 ?>
 
 <!--==========================

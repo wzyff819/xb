@@ -73,7 +73,8 @@
  *
  * @ingroup templates
  */
-drupal_not_found();
+header("not found", true, 404);
+
 ?>
 
 <!--==========================

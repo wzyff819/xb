@@ -194,6 +194,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
+
+#intro .intro-content h1 {
+  font-size: 1rem;
+  font-weight: normal;
+}
+
 #intro .intro-content h2 span {
   color: #50d8af;
   text-decoration: underline;

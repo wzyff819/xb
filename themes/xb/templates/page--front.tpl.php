@@ -109,8 +109,8 @@
 <section id="intro">
 
     <div class="intro-content">
-        <h2>您提供<span>想法</span><br>剩下的交给我们!</h2>
-        <p>潍坊小奔科技-<strong>潍坊软件开发公司</strong>，十年开发经验，承接网站建设、微信开发、APP开发等，按时交付，价格合理！</p>
+        <h1>十年开发经验，承接<span>网站建设、微信开发、APP开发</span>等，按时交付，价格合理！</h1>
+        <p>您提供想法，剩下的交给我们!</p>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>
             <a href="/services" class="btn-projects scrollto">解决方案</a>
@@ -182,7 +182,7 @@
                 <div class="box wow fadeInRight">
                     <div class="icon"><i class="fa fa-picture-o"></i></div>
                     <h4 class="title"><a href="">系统搭建</a></h4>
-                    <p class="description">作为潍坊专业的技术公司，从域名、程序开发到服务器采购、布署，只要是您需要的，我们都会做好</p>
+                    <p class="description">潍坊专业软件开发公司，从域名、程序开发到服务器采购、布署，只要是您需要的，我们都会做好</p>
                 </div>
             </div>
 

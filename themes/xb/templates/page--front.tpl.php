@@ -107,13 +107,9 @@
 
 
 <section id="intro">
-
     <div class="intro-content">
-        <h1>十年开发经验<br/>
-            承接<span>网站建设、微信开发、APP开发</span>等<br/>
-            按时交付，价格合理！
-        </h1>
-        <p>您提供想法，剩下的交给我们!</p>
+        <h2>您提供<span>想法</span><br>剩下的交给我们!</h2>
+        <p><strong>潍坊软件开发公司</strong>，十年开发经验，承接网站建设、微信公众号、微信小程序、APP等软件开发等，按时交付，价格合理！</p>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>
             <a href="/services" class="btn-projects scrollto">解决方案</a>
@@ -185,14 +181,14 @@
                 <div class="box wow fadeInRight">
                     <div class="icon"><i class="fa fa-picture-o"></i></div>
                     <h4 class="title"><a href="">系统搭建</a></h4>
-                    <p class="description">潍坊专业软件开发公司，从域名、程序开发到服务器采购、布署，只要是您需要的，我们都会做好</p>
+                    <p class="description">潍坊专业的软件开发公司，从域名、程序开发到服务器采购、布署，只要是您需要的，我们都会做好</p>
                 </div>
             </div>
 
             <div class="col-lg-6">
                 <div class="box wow fadeInLeft" data-wow-delay="0.2s">
                     <div class="icon"><i class="fa fa-shopping-bag"></i></div>
-                    <h4 class="title"><a href="">培训</a></h4>
+                    <h4 class="title"><a href="">跨境电商培训</a></h4>
                     <p class="description">针对您公司的现状，在我们熟悉的业务和能力范围内，提供从技术到运营整套方案，并帮助实施</p>
                 </div>
             </div>
@@ -201,7 +197,7 @@
                 <div class="box wow fadeInRight" data-wow-delay="0.2s">
                     <div class="icon"><i class="fa fa-map"></i></div>
                     <h4 class="title"><a href="">维护</a></h4>
-                    <p class="description">您的产品需要维护或改版，请联系我们</p>
+                    <p class="description">专业处理高并发，高难度的技术需求。您的产品需要维护或改版，请联系我们</p>
                 </div>
             </div>
 
@@ -223,11 +219,11 @@
 
         <div class="owl-carousel clients-carousel">
             <?php foreach (range(1,3) as $i):?>
-            <img src="<?=$theme_path?>/img/clients/<?=$i?>.jpg" alt="典型客户">
+            <img src="<?=$theme_path?>/img/clients/<?=$i?>.jpg" alt="潍坊APP开发、潍坊微信开发典型案例">
             <?php endforeach;?>
 
             <?php foreach (range(4,6) as $i):?>
-                <img src="<?=$theme_path?>/img/clients/<?=$i?>.png" alt="典型客户">
+                <img src="<?=$theme_path?>/img/clients/<?=$i?>.png" alt="潍坊网站建设、网站优化典型案例">
             <?php endforeach;?>
 
         </div>

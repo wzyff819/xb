@@ -110,7 +110,7 @@
 
     <div class="intro-content">
         <h2>您提供<span>想法</span><br>剩下的交给我们!</h2>
-        <p>潍坊小奔科技-<strong>潍坊专业的软件开发公司</strong>，承接网站建设、微信开发、APP开发等，按时交付，价格合理！</p>
+        <p>潍坊小奔科技-<strong>潍坊软件开发公司</strong>，十年开发经验，承接网站建设、微信开发、APP开发等，按时交付，价格合理！</p>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>
             <a href="/services" class="btn-projects scrollto">解决方案</a>
@@ -139,14 +139,16 @@
             </div>
 
             <div class="col-lg-6 content">
-                <h2>潍坊小奔科技是潍坊专业软件设计公司，开发APP、微信、网站和各种系统</h2>
+                <h2>技术创造价值</h2>
                 <h3>强大的技术支撑，优秀的管理和服务，为您的事业保驾护航</h3>
 
                 <ul>
-                    <li><i class="ion-android-checkmark-circle"></i>跨境电商从零到几千万销售，从Google到亚马逊，完整的开发和运营流程让您的产品远销无障碍。</li>
-                    <li><i class="ion-android-checkmark-circle"></i>开发企业内部的管理软件，从生产、代理、销售，甚至是员工的日常管理，成倍的减少人员成本。</li>
-                    <li><i class="ion-android-checkmark-circle"></i>微信公众号及小程序的创意开发，让您粉丝暴增，快速盈利。</li>
-                    <li><i class="ion-android-checkmark-circle"></i>低成本的创业APP，快速测试市场并提供融资样板。</li>
+                    <li><i class="ion-android-checkmark-circle"></i>低成本的创业<strong>APP开发</strong>，让您快速测试市场并提供融资样板。</li>
+                    <li><i class="ion-android-checkmark-circle"></i><strong>微信公众号</strong>及<strong>微信小程序的创意开发</strong>，让您粉丝暴增，快速盈利。</li>
+                    <li><i class="ion-android-checkmark-circle"></i><strong>自适应网站建设</strong>，<strong>营销型网站建设</strong>，价低质优。</li>
+                    <li><i class="ion-android-checkmark-circle"></i><strong>企业内部的管理软件</strong>，从生产、代理、销售，到员工的日常管理，成倍的减少人员成本。</li>
+                    <li><i class="ion-android-checkmark-circle"></i><strong>跨境电商</strong>从零到几千万，从Google到亚马逊，完整的开发和运营流程让您的产品远销无障碍。</li>
+
                 </ul>
 
             </div>
@@ -180,7 +182,7 @@
                 <div class="box wow fadeInRight">
                     <div class="icon"><i class="fa fa-picture-o"></i></div>
                     <h4 class="title"><a href="">系统搭建</a></h4>
-                    <p class="description">作为潍坊专业的技术公司，不管是微信还是APP或者网站，从域名、程序开发到服务器采购、布署，只要是您需要的，我们都会做好</p>
+                    <p class="description">作为潍坊专业的技术公司，从域名、程序开发到服务器采购、布署，只要是您需要的，我们都会做好</p>
                 </div>
             </div>
 

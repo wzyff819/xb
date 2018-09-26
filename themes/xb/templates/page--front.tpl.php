@@ -109,7 +109,10 @@
 <section id="intro">
 
     <div class="intro-content">
-        <h1>十年开发经验，承接<span>网站建设、微信开发、APP开发</span>等，按时交付，价格合理！</h1>
+        <h1>十年开发经验<br/>
+            承接<span>网站建设、微信开发、APP开发</span>等<br/>
+            按时交付，价格合理！
+        </h1>
         <p>您提供想法，剩下的交给我们!</p>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>

@@ -199,8 +199,25 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: underline;
 }
 
+#intro .intro-content h1 {
+  color: #0c2e8a;
+  margin-bottom: 30px;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+#intro .intro-content h1 strong {
+  color: #50d8af;
+  text-decoration: underline;
+}
+
+
 @media (max-width: 767px) {
   #intro .intro-content h2 {
+    font-size: 34px;
+  }
+
+  #intro .intro-content h1 {
     font-size: 34px;
   }
 }

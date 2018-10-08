@@ -118,10 +118,7 @@
 
     <div id="intro-carousel" class="owl-carousel" >
         <div class="item" style="background-image: url('<?=$theme_path;?>/img/intro-carousel/1.jpg');"></div>
-        <div class="item" style="background-image: url('<?=$theme_path;?>/img/intro-carousel/2.jpg');"></div>
-        <div class="item" style="background-image: url('<?=$theme_path;?>/img/intro-carousel/3.jpg');"></div>
-        <div class="item" style="background-image: url('<?=$theme_path;?>/img/intro-carousel/4.jpg');"></div>
-    </div>
+  </div>
 
 </section><!-- #intro -->
 

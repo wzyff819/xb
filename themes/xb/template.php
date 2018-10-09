@@ -45,7 +45,7 @@ function xb_menu_link(array $variables) {
         elseif ((!empty($element['#original_link']['depth'])) && ($element['#original_link']['depth'] == 1)) {
             // Add our own wrapper.
             unset($element['#below']['#theme_wrappers']);
-            $sub_menu = '<ul class="dropdown-menu">' . drupal_render($element['#below']) . '</ul>';
+            $sub_menu = '<ul>' . drupal_render($element['#below']) . '</ul>';
 
             // Generate as standard dropdown.
             $attributes['class'][] = 'menu-has-children';

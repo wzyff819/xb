@@ -108,7 +108,7 @@
 
 <section id="intro">
     <div class="intro-content">
-        <h2>您提供<span>想法</span><br>剩下的交给我们!</h2>
+        <h2>告诉我们，<br><span>您想要什么</span></h2>
         <h1><strong>潍坊软件开发公司</strong>，十年开发经验，承接<strong>网站建设</strong>、<strong>微信公众号</strong>、<strong>微信小程序</strong>、<strong>APP</strong>等软件开发，按时交付，价格合理！</h1>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>

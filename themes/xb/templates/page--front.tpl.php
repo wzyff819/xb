@@ -82,8 +82,7 @@
 <section id="topbar" class="d-none d-lg-block">
     <div class="container clearfix">
         <div class="contact-info float-left">
-            <i class="fa fa-envelope-o"></i> <a href="mailto:no_ended@qq.com">no_ended@qq.com</a>
-            <i class="fa fa-phone"></i> <a href="tel:17763181919">177-631-81919【微信同号】</a>
+            <i class="fa fa-phone"></i>潍坊微信公众号开发，潍坊小程序开发，潍坊APP开发，潍坊网站建设请联系：<a href="tel:17763181919">177-631-81919</a>【微信同号】
         </div>
 
     </div>
@@ -109,7 +108,7 @@
 <section id="intro">
     <div class="intro-content">
         <h2>只要告诉我们，<br><span>您想要什么。</span></h2>
-        <h1><strong>潍坊软件开发公司</strong>，十年开发经验，承接<strong>网站建设</strong>、<strong>微信公众号</strong>、<strong>微信小程序</strong>、<strong>APP</strong>等软件开发，按时交付，价格合理！</h1>
+        <h1><strong>潍坊专业的软件开发公司</strong>，十年开发经验，承接<strong>自适应网站建设</strong>、<strong>微信公众号</strong>、<strong>微信小程序</strong>、<strong>APP</strong>等软件开发，按时交付，价格合理！</h1>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>
             <a href="/services" class="btn-projects scrollto">解决方案</a>
@@ -140,8 +139,8 @@
 
                 <ul>
                     <li><i class="ion-android-checkmark-circle"></i>低成本的创业<strong>APP开发</strong>，让您快速测试市场并提供融资样板。</li>
-                    <li><i class="ion-android-checkmark-circle"></i><strong>微信公众号</strong>及<strong>微信小程序的创意开发</strong>，让您粉丝暴增，快速盈利。</li>
-                    <li><i class="ion-android-checkmark-circle"></i><strong>自适应网站建设</strong>，<strong>营销型网站建设</strong>，价低质优。</li>
+                    <li><i class="ion-android-checkmark-circle"></i><strong>微信公众号</strong>及<strong>小程序的创意开发</strong>，让您粉丝暴增，快速盈利。</li>
+                    <li><i class="ion-android-checkmark-circle"></i><strong>自适应网站建设</strong>，<strong>营销型网站建设</strong>，价低质优，快速上百度首页。</li>
                     <li><i class="ion-android-checkmark-circle"></i><strong>企业内部的管理软件</strong>，从生产、代理、销售，到员工的日常管理，成倍的减少人员成本。</li>
                     <li><i class="ion-android-checkmark-circle"></i><strong>跨境电商</strong>从零到几千万，从Google到亚马逊，完整的开发和运营流程让您的产品远销无障碍。</li>
 
@@ -185,7 +184,7 @@
             <div class="col-lg-6">
                 <div class="box wow fadeInLeft" data-wow-delay="0.2s">
                     <div class="icon"><i class="fa fa-shopping-bag"></i></div>
-                    <h4 class="title"><a href="">跨境电商培训</a></h4>
+                    <h4 class="title"><a href="">培训</a></h4>
                     <p class="description">针对您公司的现状，在我们熟悉的业务和能力范围内，提供从技术到运营整套方案，并帮助实施</p>
                 </div>
             </div>
@@ -194,7 +193,7 @@
                 <div class="box wow fadeInRight" data-wow-delay="0.2s">
                     <div class="icon"><i class="fa fa-map"></i></div>
                     <h4 class="title"><a href="">维护</a></h4>
-                    <p class="description">专业处理高并发，高难度的技术需求。您的产品需要维护或改版，请联系我们</p>
+                    <p class="description">作为技术支撑的公司，小奔有能力处理高并发，高难度的技术需求。您的产品需要维护或改版，请联系我们</p>
                 </div>
             </div>
 

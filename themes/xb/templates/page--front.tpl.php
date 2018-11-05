@@ -82,7 +82,7 @@
 <section id="topbar" class="d-none d-lg-block">
     <div class="container clearfix">
         <div class="contact-info float-left">
-            <i class="fa fa-phone"></i>潍坊微信公众号开发，潍坊小程序开发，潍坊APP开发，潍坊网站建设请联系：<a href="tel:17763181919">177-631-81919</a>【微信同号】
+            潍坊微信公众号开发，潍坊小程序开发，潍坊APP开发，潍坊网站建设联系方式：<i class="fa fa-phone"></i><a href="tel:17763181919">177-631-81919</a>【微信同号】
         </div>
 
     </div>

@@ -107,7 +107,7 @@
 
 <section id="intro">
     <div class="intro-content">
-        <h2>只需把您想要的说个差不多</h2>
+        <h2>只需把您想要的说一下</h2>
         <h1><strong>潍坊专业的软件开发公司</strong>，十年开发经验，承接<strong><a href="/node/7" title="潍坊网站建设，潍坊网站开发">网站建设</a></strong>、<strong><a href="/wechat">微信公众号</a></strong>、<strong><a href="/wechat">微信小程序</a></strong>、<strong>APP</strong>等软件开发，按时交付，价格合理！</h1>
         <div>
             <a href="/contact" class="btn-get-started scrollto">马上咨询</a>

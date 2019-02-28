@@ -81,8 +81,7 @@
 <section id="topbar" class="d-none d-lg-block">
     <div class="container clearfix">
         <div class="contact-info float-left">
-            <i class="fa fa-envelope-o"></i> <a href="mailto:no_ended@qq.com">no_ended@qq.com</a>
-            <i class="fa fa-phone"></i> 177-631-81919
+            潍坊网站建设，潍坊微信开发，潍坊APP开发，潍坊软件公司<i class="fa fa-phone"></i><a href="tel:17763181919">177-631-81919</a>【微信同号】
         </div>
 
     </div>

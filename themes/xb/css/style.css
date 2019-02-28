@@ -1091,3 +1091,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 .main-container {margin-top:30px;}
+
+#services .wechat .box h4  {margin-left:0;}
+#services .wechat .box p  {margin-left:0;}
